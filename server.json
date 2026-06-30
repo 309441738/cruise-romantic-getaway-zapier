@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.309441738/cruise-romantic-getaway",
+  "description": "为情侣提供浪漫邮轮之旅的精选产品，打造难忘的回忆。",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cruise-mcp.olavacations.com/api/gw/mcp/eff7cd62-32ac-433b-852c-987be83c417b"
+    }
+  ]
+}
