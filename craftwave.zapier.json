@@ -1,0 +1,10 @@
+{
+  "title": "cruise-romantic-getaway",
+  "description": "为情侣提供浪漫邮轮之旅的精选产品，打造难忘的回忆。",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
